@@ -1,0 +1,10 @@
+{
+  "id": "strangerocknotifier",
+  "name": "Strange Rock Notifier",
+  "version": "1.0",
+  "description": "Notifies you when a strange rock is obtained.",
+  "icon": "icon.png",
+  "main": "index.html",
+  "type": "default",
+  "permissions": ["readchat"]
+}
